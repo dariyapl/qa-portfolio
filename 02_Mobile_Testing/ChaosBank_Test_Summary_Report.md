@@ -2,17 +2,17 @@
 
 ## 1. General Information
 
-| Field | Description                             |
-|---|-----------------------------------------|
-| Project | ChaosBank Mobile Application            |
-| Platform | iOS                                     |
-| Testing Type | Manual Mobile Application Testing       |
-| Testing Approach | Black Box Testing                       |
-| Test Environment | Xcode iOS Simulator                     |
+| Field | Description                          |
+|---|--------------------------------------|
+| Project | ChaosBank Mobile Application         |
+| Platform | iOS                                  |
+| Testing Type | Manual Mobile Application Testing    |
+| Testing Approach | Black Box Testing                    |
+| Test Environment | Xcode iOS Simulator                  |
 | Device | iPhone 18 Pro (Simulator) |
-| iOS Version | iPhone 18 Pro, iOS 26.3                 |
-| Application Version | v1                                      |
-| Test Status | Partially Completed                     |
+| iOS Version | iOS 26.3                 |
+| Application Version | v1                                   |
+| Test Status | Partially Completed                  |
 
 ## 2. Testing Objective
 
@@ -56,10 +56,10 @@ A total of 30 test scenarios were documented.
 
 | Status | Count |
 |---|---:|
-| Pass (previously recorded) | 9 |
+| Pass (previously recorded) | 10 |
 | Fail | 0 |
 | Observation | 1 |
-| Not Run | 20 |
+| Not Run | 19 |
 | **Total** | **30** |
 
 The results include previously documented executions and newly designed scenarios.

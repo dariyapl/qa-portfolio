@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c18fd3f8-ff8b-47e3-93f0-3bd05365552d" name="Changes" comment="QA portfolio" />
+    <list default="true" id="c18fd3f8-ff8b-47e3-93f0-3bd05365552d" name="Changes" comment="QA portfolio fixed">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Mobile_Testing/ChaosBank_Test_Cases.md" beforeDir="false" afterPath="$PROJECT_DIR$/02_Mobile_Testing/ChaosBank_Test_Cases.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Mobile_Testing/ChaosBank_Test_Summary_Report.md" beforeDir="false" afterPath="$PROJECT_DIR$/02_Mobile_Testing/ChaosBank_Test_Summary_Report.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,12 +18,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dariyapl"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dariyapl&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/dariyapl/qa-portfolio.git&quot;,
@@ -69,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1794924748266</updated>
-      <workItem from="1794924749282" duration="7204000" />
+      <workItem from="1794924749282" duration="7692000" />
     </task>
     <task id="LOCAL-00001" summary="QA portfolio">
       <option name="closed" value="true" />
@@ -79,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794948807144</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="QA portfolio fixed">
+      <option name="closed" value="true" />
+      <created>1794949193115</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794949193115</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="QA portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="QA portfolio" />
+    <MESSAGE value="QA portfolio fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="QA portfolio fixed" />
   </component>
 </project>

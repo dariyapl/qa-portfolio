@@ -10,7 +10,7 @@
 | Testing Approach | Black Box Testing                 |
 | Test Environment | Xcode iOS Simulator               |
 | Device | iPhone 18 Pro (Simulator)         |
-| iOS Version | 26.4                              |
+| iOS Version | 26.3                              |
 | Application Version | v1                                |
 
 ## 2. Test Execution Status
