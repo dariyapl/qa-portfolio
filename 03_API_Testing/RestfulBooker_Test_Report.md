@@ -171,7 +171,6 @@ The testing covered positive and negative scenarios, including CRUD operations, 
 Successful booking creation and retrieval were confirmed, and expected error responses were observed for unauthorized access and non-existing resources.
 
 Two observations were documented regarding input validation and server error handling.
-[DB Browser for SQLite.app](../../../../../Volumes/Install%20DB4S/DB%20Browser%20for%20SQLite.app)
 Some execution results require additional confirmation before the testing can be considered fully documented.
 
 **Overall Assessment:** The API testing activities demonstrate basic practical skills in REST API testing, HTTP methods, JSON validation, and negative test design. Further verification is recommended to improve coverage and reliability of the test report.

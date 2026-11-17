@@ -2,16 +2,16 @@
 
 ## 1. General Information
 
-| Field | Description |
-|---|---|
-| Application | ChaosBank |
-| Platform | iOS |
+| Field | Description                       |
+|---|-----------------------------------|
+| Application | ChaosBank                         |
+| Platform | iOS                               |
 | Testing Type | Manual Mobile Application Testing |
-| Testing Approach | Black Box Testing |
-| Test Environment | Xcode iOS Simulator |
-| Device | iPhone 18 Pro (Simulator, if confirmed) |
-| iOS Version | To be confirmed |
-| Application Version | To be confirmed |
+| Testing Approach | Black Box Testing                 |
+| Test Environment | Xcode iOS Simulator               |
+| Device | iPhone 18 Pro (Simulator)         |
+| iOS Version | 26.4                              |
+| Application Version | v1                                |
 
 ## 2. Test Execution Status
 

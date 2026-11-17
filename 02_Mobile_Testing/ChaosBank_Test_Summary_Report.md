@@ -9,7 +9,7 @@
 | Testing Type | Manual Mobile Application Testing       |
 | Testing Approach | Black Box Testing                       |
 | Test Environment | Xcode iOS Simulator                     |
-| Device | iPhone 18 Pro (Simulator, if confirmed) |
+| Device | iPhone 18 Pro (Simulator) |
 | iOS Version | iPhone 18 Pro, iOS 26.3                 |
 | Application Version | v1                                      |
 | Test Status | Partially Completed                     |
